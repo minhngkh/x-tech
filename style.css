@@ -1,6 +1,6 @@
 body {
-    background: url("images/background.png");
-    font-family: 'Roboto', sans-serif;
+    background: url("images/background.png") no-repeat center top;
+    font-family: "Roboto", sans-serif;
 }
 
 #page {
@@ -24,7 +24,6 @@ body {
 a:hover {
     text-decoration: none;
 }
-
 
 .custom-button {
     -moz-box-shadow: 1px 2px 2px 0px #979e95;
@@ -151,7 +150,6 @@ a:hover {
     border-right: 1.5rem solid transparent;
 }
 
-
 .icon-24 {
     width: 24px;
     height: 24px;
@@ -163,50 +161,50 @@ a:hover {
 
 .skype {
     background: url("images/skype-logo.png") no-repeat;
-    filter:grayscale(100%)
+    filter: grayscale(100%);
 }
 .skype:hover {
-    filter:grayscale(0);
+    filter: grayscale(0);
 }
 
 .linkedin {
     background: url("images/linkedin-logo.png") no-repeat;
-    filter:grayscale(100%)
+    filter: grayscale(100%);
 }
 .linkedin:hover {
-    filter:grayscale(0);
+    filter: grayscale(0);
 }
 
 .facebook {
     background: url("images/facebook-logo.png") no-repeat;
-    filter:grayscale(100%)
+    filter: grayscale(100%);
 }
 .facebook:hover {
-    filter:grayscale(0);
+    filter: grayscale(0);
 }
 
 .digg {
     background: url("images/digg-logo.png") no-repeat;
-    filter:grayscale(100%)
+    filter: grayscale(100%);
 }
 .digg:hover {
-    filter:grayscale(0);
+    filter: grayscale(0);
 }
 
 .deviantart {
     background: url("images/deviantart-logo.png") no-repeat;
-    filter:grayscale(100%)
+    filter: grayscale(100%);
 }
 .deviantart:hover {
-    filter:grayscale(0);
+    filter: grayscale(0);
 }
 
 .twitter {
     background: url("images/twitter-logo.png") no-repeat;
-    filter:grayscale(100%)
+    filter: grayscale(100%);
 }
 .twitter:hover {
-    filter:grayscale(0);
+    filter: grayscale(0);
 }
 
 .vertical-divide-list li {
@@ -243,10 +241,10 @@ a:hover {
 }
 
 .arrow-text {
-    color: #5790dc; 
+    color: #5790dc;
     font-size: 1.4rem;
 }
 
 #footer {
-    background: url('images/footer-background.png') no-repeat top center/cover;
+    background: url("images/footer-background.png") no-repeat top center/cover;
 }
