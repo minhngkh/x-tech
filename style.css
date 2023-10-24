@@ -1,5 +1,5 @@
 body {
-    background: url("images/background.png") no-repeat center top;
+    background: url("images/background.png") no-repeat top center/cover;
     font-family: "Roboto", sans-serif;
 }
 
